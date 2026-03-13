@@ -82,7 +82,7 @@ ollama --version # should return a version number like 0.5.12
 
 # 4. Pull the LLM & Embedding Model:
 
-First, pull the LLM Model
+First, Pull the LLM Model
 
 ```bash
 ollama pull llama3.1
