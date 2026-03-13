@@ -1,5 +1,5 @@
 # Haokun-Zhang
-Financial 10-K Chat bot_Group 5
+Financial 10-K Chatbot_Team_5
 # 1. Prepare your tools
 
 Feel free to skip these steps if you have already installed the tools.
